@@ -1,0 +1,31 @@
+{
+  "model": "llm_runs/20260923T002406_749786Z/model.pt",
+  "model_sha256": "41c358a33488361f8bf7e83f2d3c9c8cfd8af34f83e524a9aeb26840dc4f38e2",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "testing this language model",
+      "seed": 2026,
+      "response": "in the hill .",
+      "unknown_prompt_words": [
+        "language",
+        "model",
+        "testing",
+        "this"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "hello",
+      "seed": 2027,
+      "response": "explains the opposite of wide .",
+      "unknown_prompt_words": [
+        "hello"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

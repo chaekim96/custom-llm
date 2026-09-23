@@ -1,0 +1,159 @@
+The soup was hot, but the water was cold.
+Hot and cold are opposites.
+Cold is the opposite of hot.
+The tea went from cold to hot.
+If the water is not hot, it is cold.
+The morning was cool, but the afternoon was warm.
+Warm and cool are opposites.
+Cool is the opposite of warm.
+The house is big, but the box is small.
+Big and small are opposites.
+Small is the opposite of big.
+The dog grew from small to big.
+The hill is huge, and the stone is tiny.
+Tiny is the opposite of huge.
+The tree is tall, but the fence is short.
+Tall and short are opposites.
+Short is the opposite of tall.
+The river is wide near the bridge and narrow near the hill.
+Narrow is the opposite of wide.
+The road was long, but the path was short.
+Long and short are opposites.
+The book is thick, but the bag is thin.
+Thin is the opposite of thick.
+The box is heavy, but the kite is light.
+Heavy and light are opposites.
+Light is the opposite of heavy.
+The dog was loud, but the cat was quiet.
+Loud and quiet are opposites.
+Quiet is the opposite of loud.
+The park went from quiet to loud.
+The kitchen was noisy at dinner and silent at night.
+Silent is the opposite of noisy.
+The bed is soft, but the stone is hard.
+Soft and hard are opposites.
+Hard is the opposite of soft.
+The bread went from soft to hard.
+The plate is smooth, but the road is rough.
+Smooth and rough are opposites.
+Rough is the opposite of smooth.
+The dog was wet after the river and dry after the sun.
+Wet and dry are opposites.
+Dry is the opposite of wet.
+The new knife is sharp, but the old knife is dull.
+Dull is the opposite of sharp.
+The kitchen was bright in the day and dark at night.
+Bright and dark are opposites.
+Dark is the opposite of bright.
+The car is fast, but the boat is slow.
+Fast and slow are opposites.
+Slow is the opposite of fast.
+Maya was early, but Omar was late.
+Early and late are opposites.
+Late is the opposite of early.
+The cat is young, but the dog is old.
+Young and old are opposites.
+Old is the opposite of young.
+The bike is new, but the car is old.
+Old is the opposite of new.
+Nina felt happy, and Theo felt sad.
+Happy and sad are opposites.
+Sad is the opposite of happy.
+The plate was dirty before dinner and clean after.
+Clean and dirty are opposites.
+Dirty is the opposite of clean.
+The cake is sweet, but the apple is sour.
+Sweet and sour are opposites.
+Sour is the opposite of sweet.
+My uncle is strong, but the baby is weak.
+Strong and weak are opposites.
+Weak is the opposite of strong.
+The kite flew high, and the boat stayed low.
+High and low are opposites.
+Low is the opposite of high.
+The door was open in the morning and closed at night.
+Open and closed are opposites.
+Closed is the opposite of open.
+Many kids came to the park, but few came to the river.
+Many and few are opposites.
+Few is the opposite of many.
+Maya had more apples, and Hugo had less.
+More and less are opposites.
+Less is the opposite of more.
+The cup was cheap, but the car was expensive.
+Cheap and expensive are opposites.
+Expensive is the opposite of cheap.
+The river is deep, but the pond is shallow.
+Deep and shallow are opposites.
+Shallow is the opposite of deep.
+The baby was awake in the morning and asleep at night.
+Awake and asleep are opposites.
+Asleep is the opposite of awake.
+The lid was tight, but the rope was loose.
+Tight and loose are opposites.
+Loose is the opposite of tight.
+Priya came first, and Hugo came last.
+First and last are opposites.
+Last is the opposite of first.
+The test was easy for Theo but difficult for Nina.
+Easy and difficult are opposites.
+Difficult is the opposite of easy.
+The kite went up, and the stone fell down.
+Up and down are opposites.
+Down is the opposite of up.
+The cat came in, and the dog went out.
+In and out are opposites.
+Out is the opposite of in.
+The tea was warm, not cold.
+The kite was light, not heavy.
+The path was narrow, not wide.
+The bed felt soft, not hard.
+The room grew dark, not bright.
+The park was quiet, not loud.
+The water was deep, not shallow.
+The cake was sweet, not sour.
+The opposite of cold is hot.
+The opposite of warm is cool.
+The opposite of big is small.
+The opposite of small is big.
+The opposite of huge is tiny.
+The opposite of tall is short.
+The opposite of wide is narrow.
+The opposite of long is short.
+The opposite of thick is thin.
+The opposite of heavy is light.
+The opposite of light is heavy.
+The opposite of loud is quiet.
+The opposite of quiet is loud.
+The opposite of soft is hard.
+The opposite of hard is soft.
+The opposite of smooth is rough.
+The opposite of rough is smooth.
+The opposite of wet is dry.
+The opposite of dry is wet.
+The opposite of sharp is dull.
+The opposite of bright is dark.
+The opposite of dark is bright.
+The opposite of fast is slow.
+The opposite of slow is fast.
+The opposite of early is late.
+The opposite of young is old.
+The opposite of new is old.
+The opposite of happy is sad.
+The opposite of clean is dirty.
+The opposite of dirty is clean.
+The opposite of sweet is sour.
+The opposite of strong is weak.
+The opposite of high is low.
+The opposite of open is closed.
+The opposite of many is few.
+The opposite of more is less.
+The opposite of cheap is expensive.
+The opposite of deep is shallow.
+The opposite of shallow is deep.
+The opposite of awake is asleep.
+The opposite of tight is loose.
+The opposite of first is last.
+The opposite of easy is difficult.
+The opposite of up is down.
+The opposite of in is out.

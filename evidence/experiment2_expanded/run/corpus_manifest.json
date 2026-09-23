@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "grammar_tense_and_agreement.txt",
+      "bytes": 4539,
+      "sha256": "da117d9680dd92ebc12562f6ce29c65967a6df90e903a777a9d94fc7c1712994",
+      "warnings": [],
+      "characters": 4539,
+      "passages": 137,
+      "unique_passages": 137,
+      "preview": "Maya painted the fence last week.\nMaya paints the door every summer.\nRight now Maya is painting the kitchen.\nThe kids paint pictures of the garden.\nLast night Omar cooked soup for the family.\nOmar cooks dinner every day.\nOmar is cooking soup right now.\nThey cook together on weekends.\nThe family clea"
+    },
+    {
+      "file": "opposites_in_context.txt",
+      "bytes": 5393,
+      "sha256": "d8f1384e8e2a10e3d5e1d8f55fbff1fc54bc7fee8bf8985923df7f0bbd80d08b",
+      "warnings": [],
+      "characters": 5393,
+      "passages": 159,
+      "unique_passages": 159,
+      "preview": "The soup was hot, but the water was cold.\nHot and cold are opposites.\nCold is the opposite of hot.\nThe tea went from cold to hot.\nIf the water is not hot, it is cold.\nThe morning was cool, but the afternoon was warm.\nWarm and cool are opposites.\nCool is the opposite of warm.\nThe house is big, but th"
+    },
+    {
+      "file": "spatial_relations.txt",
+      "bytes": 3732,
+      "sha256": "7f747729223ed77c85009450bb34289061d6094459490bf11024d13ab57fcf64",
+      "warnings": [],
+      "characters": 3732,
+      "passages": 59,
+      "unique_passages": 59,
+      "preview": "The kite flew above the tree, and the tree stood below the kite.\nWhen the shelf hangs above the sofa, the sofa sits below the shelf.\nThe bird flew above the house, so the house was below the bird.\nA cloud drifted above the hill, which left the hill below the cloud.\nThe shelf is above the bed, and th"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 355,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 4947,
+  "new_unique_passages": 355,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}
