@@ -147,7 +147,9 @@ difference, which matches the flat loss. Extra training didn't buy anything.
 **Loss** (fixed panels: **20 training and 20 validation passages**, mean over
 non-padding next-token targets; these are small estimates, not full-corpus measurements).
 This is every measured panel value ([Exp 1 history.json](evidence/experiment1_starter/run/history.json),
-[Exp 2 history.json](evidence/experiment2_expanded/run/history.json)):
+[Exp 2 history.json](evidence/experiment2_expanded/run/history.json); same values as CSV:
+[Exp 1 training.csv](evidence/experiment1_starter/run/training.csv),
+[Exp 2 training.csv](evidence/experiment2_expanded/run/training.csv)):
 
 | Experiment | Step | Training loss | Validation loss |
 |---|---|---|---|
