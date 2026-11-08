@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/readme/header-dark.png">
+  <img src="brand/readme/header-light.png" alt="Custom LLM: Seeing how language models learn by training a tiny one.">
+</picture>
+
 # My Custom LLM Experiment (MBA 290T, Assignment 3)
 
 A tiny word-level language model: Karpathy's **nanoGPT** (2 blocks, 4 heads,
@@ -434,3 +439,7 @@ especially spatial, because my own probes showed the reversal only works in one 
    ```
 3. **Embedding viewer:** open [embedding-viewer.html](embedding-viewer.html) and load a run's `checkpoint.json`.
 4. **Note:** `model.pt` is for inference only, and `checkpoint.json` is for the viewer. Neither can resume training.
+
+---
+
+<p align="center"><a href="https://chaekim.vercel.app"><img src="brand/readme/seal.svg" width="10" height="10" alt=""> <sub>a Chae Kim build</sub></a></p>
